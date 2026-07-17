@@ -25,7 +25,7 @@ Create a simple educational website using **HTML only**. This assignment is desi
 Your website should contain the following sections:
 
 ### 1. Header
-- Website Name: **Touch and Solve**
+- Website Name: **Any Educational Institute Name**
 - Slogan: **Learning Today, Leading Tomorrow**
 
 ---
