@@ -157,22 +157,9 @@ Rahim.html
 
 ---
 
-## 📊 Mark Distribution
+## 📊 Demo
+![alt text](image.png)
 
-| Criteria | Marks |
-|-----------|------:|
-| HTML Document Structure | 10 |
-| Header | 10 |
-| Navigation Menu | 10 |
-| Table Layout | 20 |
-| Sidebar | 10 |
-| Main Content | 15 |
-| Course Information Table | 15 |
-| Footer | 5 |
-| Code Formatting & Indentation | 5 |
-| **Total** | **100** |
-
----
 
 ## 💡 Hint
 
